@@ -1,0 +1,133 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product A",
+      "price": 19.99,
+      "imgUrl": "https://example.com/productA.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "price": 29.99,
+      "imgUrl": "https://example.com/productB.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "price": 14.99,
+      "imgUrl": "https://example.com/productC.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Product D",
+      "price": 39.99,
+      "imgUrl": "https://example.com/productD.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Product E",
+      "price": 24.99,
+      "imgUrl": "https://example.com/productE.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Product F",
+      "price": 49.99,
+      "imgUrl": "https://example.com/productF.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Product G",
+      "price": 9.99,
+      "imgUrl": "https://example.com/productG.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Product H",
+      "price": 34.99,
+      "imgUrl": "https://example.com/productH.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Product I",
+      "price": 59.99,
+      "imgUrl": "https://example.com/productI.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Product J",
+      "price": 19.99,
+      "imgUrl": "https://example.com/productJ.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Product K",
+      "price": 22.99,
+      "imgUrl": "https://example.com/productK.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Product L",
+      "price": 44.99,
+      "imgUrl": "https://example.com/productL.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Product M",
+      "price": 15.99,
+      "imgUrl": "https://example.com/productM.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Product N",
+      "price": 27.99,
+      "imgUrl": "https://example.com/productN.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Product O",
+      "price": 32.99,
+      "imgUrl": "https://example.com/productO.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Product P",
+      "price": 18.99,
+      "imgUrl": "https://example.com/productP.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Product Q",
+      "price": 54.99,
+      "imgUrl": "https://example.com/productQ.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Product R",
+      "price": 11.99,
+      "imgUrl": "https://example.com/productR.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Product S",
+      "price": 37.99,
+      "imgUrl": "https://example.com/productS.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Product T",
+      "price": 49.99,
+      "imgUrl": "https://example.com/productT.jpg"
+    }
+  ]
+      
+      ,
+    "comments": [
+      { "id": "1", "text": "a comment about post 1", "postId": "1" },
+      { "id": "2", "text": "another comment about post 1", "postId": "1" }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+}
