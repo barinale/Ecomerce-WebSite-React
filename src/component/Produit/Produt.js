@@ -1,9 +1,9 @@
 import React from 'react'
 
-export const Produt = ({product}) => {
-    const {name,price,imgUrl} = product;
+export const Produt = ({item}) => {
+    const {name,price,imgUrl} = item;
   return (
-    <div>
+    <div className='border bg-slate-400'>
         <div>
             <img src={imgUrl} alt={name} />
         </div>
